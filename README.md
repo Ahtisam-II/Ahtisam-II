@@ -1,15 +1,6 @@
 <div align="center">
 
-```
- █████╗ ██╗  ██╗████████╗██╗███████╗ █████╗ ███╗   ███╗    ██╗██╗
-██╔══██╗██║  ██║╚══██╔══╝██║██╔════╝██╔══██╗████╗ ████║    ██║██║
-███████║███████║   ██║   ██║███████╗███████║██╔████╔██║    ██║██║
-██╔══██║██╔══██║   ██║   ██║╚════██║██╔══██║██║╚██╔╝██║    ██║██║
-██║  ██║██║  ██║   ██║   ██║███████║██║  ██║██║ ╚═╝ ██║    ██║██║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝╚═╝
-```
-
-### FPGA Engineer · Chip Design · Embedded Systems · Hardware-ML Co-Design
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00bfff&height=200&section=header&text=AHTISAM%20ALI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=FPGA%20Engineer%20%C2%B7%20Chip%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Hardware-ML%20Co-Design&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahtisam-ii)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -159,6 +150,8 @@ Autonomous Systems    ·  Edge AI Hardware  ·  Low-Power SoC
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:0e75b6&height=120&section=footer" width="100%"/>
 
 ### Let's work on something real.
 

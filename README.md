@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ahtisam+Iqbal;Electrical+Engineer+%7C+FPGA+Developer;Hardware+Design+%7C+Embedded+Systems;Digital+IC+Design+%7C+VLSI" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ahtisam+Iqbal Electrical+Engineer+%7C+FPGA+Developer; Hardware+Design+%7C+Embedded+Systems;Digital+IC+Design+%7C+VLSI" alt="Typing Animation" />
 </div>
 
 <div align="center">

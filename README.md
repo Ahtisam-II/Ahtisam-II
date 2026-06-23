@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00bfff&height=200&section=header&text=AHTISAM%20ALI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=FPGA%20Engineer%20%C2%B7%20Chip%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Hardware-ML%20Co-Design&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisam-iqbal-9231792d/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahtisamiqbal003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahtisam-ii)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ahtisam-II&color=0e75b6&style=flat-square)](https://github.com/Ahtisam-II)
 
 </div>
@@ -43,6 +43,8 @@ endmodule
 
 ## ⚡ Tech Stack
 
+<div align="center">
+
 **HDL & FPGA**
 
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=flat-square&logoColor=white)
@@ -81,6 +83,8 @@ endmodule
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
@@ -155,8 +159,8 @@ Autonomous Systems    ·  Edge AI Hardware  ·  Low-Power SoC
 
 ### Let's work on something real.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisam-iqbal-9231792d/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahtisamiqbal003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahtisam-ii)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 *"Hardware is where physics meets precision."*
 

@@ -135,7 +135,7 @@ National University of Sciences & Technology (NUST-MCS)    2022 – 2026
 ├── Specialisation: FPGA Design, VLSI, Embedded Systems
 └── Rawalpindi, Pakistan
 
-NUST Chip Design Center — Research Intern                  2025 – 2026
+NUST Chip Design Center —  Intern                  2025
 ├── Silicon bringup & functional verification
 ├── ML architecture optimisation for FPGA deployment
 └── High-Level Synthesis design flows
@@ -146,8 +146,8 @@ NUST Chip Design Center — Research Intern                  2025 – 2026
 ## 🔭 Research Interests
 
 ```
-Silicon Photonics     ·  Neural Probes     ·  Lab-on-Chip
-Autonomous Systems    ·  Edge AI Hardware  ·  Low-Power SoC
+Silicon Photonics     ·  SoC architecture     ·  FPGA
+Autonomous Systems    ·  Edge AI Hardware     ·  Low-Power SoC
 ```
 
 ---

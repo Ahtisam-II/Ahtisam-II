@@ -133,7 +133,6 @@ endmodule
 National University of Sciences & Technology (NUST-MCS)    2022 – 2026
 ├── B.E. Electrical Engineering  ·  CGPA: 3.59 / 4.0
 ├── Specialisation: FPGA Design, VLSI, Embedded Systems
-├── Merit Scholarship (Top GPA)  ·  PM Youth Laptop Scheme
 └── Rawalpindi, Pakistan
 
 NUST Chip Design Center — Research Intern                  2025 – 2026
